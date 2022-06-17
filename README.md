@@ -1,4 +1,4 @@
- # *__Instruction of use others epositories from github__*.
+ # *__Instruction of use others repositories from github__*.
 
 * Doing Fork of needed repository.
 * Doing git clone to our local repository.
