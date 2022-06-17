@@ -1,4 +1,4 @@
-## _This is some project on github._##
+ # *__This is some project on github__*.
 
 * Doing Fork of needed repository.
 * Doing git clone to our local repository.
