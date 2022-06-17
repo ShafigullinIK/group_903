@@ -1,8 +1,8 @@
- # *__This is some project on github__*.
+ # *__Instruction of use others epositories from github__*.
 
 * Doing Fork of needed repository.
 * Doing git clone to our local repository.
-* Creating new branch at cloning repository with changes.
-* Doing all our changes only at this branch.
+* Creating new branch at cloned repository with changes.
+* Doing all our changes only in this branch.
 * Senging this changes to our repository on github (push).
 * On github sending pull request with our changes to forked repository.
