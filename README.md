@@ -6,3 +6,4 @@
 * Doing all our changes only in this branch.
 * Senging this changes to our repository on github (push).
 * On github sending pull request with our changes to forked repository.
+* End.
