@@ -1,6 +1,6 @@
- # *__Instruction of use others repositories from github__*.
+ # *__Instruction of use others repositories from github__*:
 
-* Doing Fork of needed repository.
+* Doing fork of needed repository.
 * Doing git clone to our local repository.
 * Creating new branch at cloned repository with changes.
 * Doing all our changes only in this branch.
