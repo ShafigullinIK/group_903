@@ -1,1 +1,1 @@
-Какой-то проект на Github
+Hello world
