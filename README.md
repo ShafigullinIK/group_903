@@ -1,0 +1,1 @@
+Some information about our project.
