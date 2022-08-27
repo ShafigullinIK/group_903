@@ -1,0 +1,1 @@
+This is some ideas (project) on Github.
