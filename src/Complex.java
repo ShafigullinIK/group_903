@@ -8,6 +8,7 @@ public class Complex {
         c.re = a.re + b.re;
         c.im = a.im + b.im;
         return c;
+        string text = "hi"
     }
 
 }
