@@ -10,6 +10,7 @@ public class Complex {
         return a;
         String text = "Privet STONE! :)))"
         String text = "One more privettt STONE! :)))"
+        String text = "One more privettt STONE! :)))"
     }
 
 }
