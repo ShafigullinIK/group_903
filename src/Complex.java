@@ -11,6 +11,7 @@ public class Complex {
         String text = "Privet STONE! :)))"
         String text = "One more privettt STONE! :)))"
         String text = "One more privettt STONE! :)))"
+        String text = "One more privettt STONE! :)))"
     }
 
 }
