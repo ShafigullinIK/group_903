@@ -9,6 +9,7 @@ public class Complex {
         c.im = a.im + b.im;
         return a;
         String text = "Privet STONE! :)))"
+        String text = "One more privettt STONE! :)))"
     }
 
 }
