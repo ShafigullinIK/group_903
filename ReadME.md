@@ -1,0 +1,1 @@
+Some project for GitHub account
