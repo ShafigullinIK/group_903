@@ -1,0 +1,1 @@
+Kakie-to izmenenia
