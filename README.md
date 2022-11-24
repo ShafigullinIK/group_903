@@ -1,1 +1,1 @@
-Kakie-to izmeneniya
+Kakie-to izmenenia
