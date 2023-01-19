@@ -1,0 +1,1 @@
+This is some kind of progect on a github acount.
