@@ -8,3 +8,4 @@ This is a comment in README.md
 5. Отправляем эти изменения на свой аккаунт (push)
 6. В окне GitHub появляется возможность отправить pull request.
 
+Updated README.md
