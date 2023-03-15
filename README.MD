@@ -1,0 +1,1 @@
+Give them nothing! But take from them everything!
