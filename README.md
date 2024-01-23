@@ -1,1 +1,1 @@
-Aceasta este ubn proiect pe Github account.
+Aceasta este un proiect pe Github account.
